@@ -4,7 +4,7 @@ A responsive Amazon-inspired e-commerce website UI built from scratch using HTML
 
 🚀 Live Demo
 
-👉 "View Live Website" (https://github.com/atulonline110/amazon-clone-html-css)
+👉 "View Live Website" (https://github.com/atulonline110/amazon-clone-html-css/)
 
 💻 Technologies Used
 
