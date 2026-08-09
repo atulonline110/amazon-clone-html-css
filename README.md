@@ -4,7 +4,7 @@ A responsive Amazon-inspired e-commerce website UI built from scratch using HTML
 
 🚀 Live Demo
 
-👉 "View Live Website"(file:///C:/Users/VERMA/Desktop/CSS%20PROJECT/index.html)
+👉 "View Live Website"("file:///C:/Users/VERMA/Desktop/CSS%20PROJECT/index.html")
 
 💻 Technologies Used
 
