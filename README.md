@@ -72,7 +72,7 @@ More projects will be added as I continue learning.
 
 👨‍💻 Author
 
-Hariom Kharwar
+Atul Kumar Verma
 
 B.Tech Computer Science Student
 Aspiring Full-Stack Development
